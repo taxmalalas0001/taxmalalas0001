@@ -1,7 +1,7 @@
 ## Hello There 👋
 
 I am a Greek Tech enthusiast currently using
-Hackintosh + Oreon Linux setup, I have contributed to Oreon Mobile and the OreonMC Server
+Hackintosh + Oreon Linux setup, I have contributed to The Oreon Linux Mobile Project and Oreon Linux itself
 
 ## Current Skills
 
@@ -9,4 +9,4 @@ Hackintosh + Oreon Linux setup, I have contributed to Oreon Mobile and the Oreon
 
 ## Current Focus
 
-I am trying to focus on contributing to the oreon linux project in any way i can right now but im open for anything
+I am trying to focus on contributing to the Oreon Linux Project in any way i can right now but im open for anything
