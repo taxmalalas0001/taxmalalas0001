@@ -1,7 +1,6 @@
 ## Hello There 👋
 
-I am a Greek Tech enthusiast currently using
-Hackintosh + Oreon Linux setup, I have contributed to The Oreon Linux Mobile Project and Oreon Linux itself
+I am a Greek Tech enthusiast currently using NixOS.
 
 ## Current Skills
 
@@ -9,4 +8,4 @@ Hackintosh + Oreon Linux setup, I have contributed to The Oreon Linux Mobile Pro
 
 ## Current Focus
 
-I am trying to focus on contributing to the Oreon Linux Project in any way i can right now but im open for anything
+I am trying to focus on little side projects to advance my skills even further
