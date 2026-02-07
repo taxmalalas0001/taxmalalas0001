@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-I am a Greek Tech enthusiast currently using NixOS.
+I am a Greek Tech enthusiast currently using CachyOS.
 
 ## Current Skills
 
