@@ -9,3 +9,6 @@ I am a Greek Tech enthusiast currently using CachyOS.
 ## Current Focus
 
 I am trying to focus on little side projects to advance my skills even further
+
+## Where to find my other Repos
+You can find my other repositories in my own git server https://git.greenova.xyz
